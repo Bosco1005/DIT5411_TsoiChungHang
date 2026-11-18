@@ -1,4 +1,4 @@
-# DIT5411-YourName
+# DIT5411-TsoiChungHang
 
 Traditional Chinese Handwritten Character Recognition using TensorFlow.
 
